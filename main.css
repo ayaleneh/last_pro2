@@ -1,0 +1,9 @@
+#fi{
+  width: 150px;
+  height: 150px;
+}
+body{
+  position: relative;
+  left: 450px;
+  background-color: chocolate;
+}
